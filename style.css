@@ -1,0 +1,11 @@
+* {
+    background-color: rgb(195, 236, 170) ;
+}
+h1 , h3 {
+    color: rgb(124, 145, 112);
+}
+
+.button {
+    background-color: white;
+    border-radius: 8px;
+}
